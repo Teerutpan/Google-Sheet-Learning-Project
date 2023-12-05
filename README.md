@@ -3,9 +3,9 @@ These are some of my interesting learning and projects on Google Sheet.
 ### Live Upskill 01 – Google Sheets
 - **Instructor : Kasidis Satangmongkol - founder of Datarockie.com and Data Science Bootcamp in Thailand.**
 <a name=""></a>
-- [Live Upskill 01 – Google Sheets - Click to Learn](https://docs.google.com/spreadsheets/d/1afycoiJaRD45YsZMEsDBB2UK9F82BrzgaGgE-6IgWcQ/edit?usp=sharing)
+- [Live Upskill 01 – Google Sheets - Click](https://docs.google.com/spreadsheets/d/1afycoiJaRD45YsZMEsDBB2UK9F82BrzgaGgE-6IgWcQ/edit?usp=sharing)
 
-  Content includes the following topics and mini projects as below
+  The content includes the following topics and includes mini projects such as Dynamic Query, Data Converting & Parser.
   1. Data Entry
   2. Array Formula
   3. Filter and Sort
@@ -23,5 +23,7 @@ These are some of my interesting learning and projects on Google Sheet.
 ### Introduction to Pivot Table
 - **Instructor : Kasidis Satangmongkol - founder of Datarockie.com and Data Science Bootcamp in Thailand.**
 <a name=""></a>
-- [Introduction to Pivot Table - Click to Learn](https://docs.google.com/spreadsheets/d/1hP182XSZEJKAEE4CyZmErHpx97faCIb95vzQaUi1NUw/edit?usp=sharing)
+- [Introduction to Pivot Table - Click](https://docs.google.com/spreadsheets/d/1hP182XSZEJKAEE4CyZmErHpx97faCIb95vzQaUi1NUw/edit?usp=sharing)
+
+  The content includes how to create a Pivot Table on Google Sheets to summarize, analyze, make quick reports, and also creates data visualizations to make it easier    for data driven decision. 
 
